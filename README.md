@@ -14,9 +14,9 @@ How to use:
 3. download lspatch.zip
 4. create a folder lspatch in your phone storage  and unzip the zip
  
-4. cd /sdcard/lspatch
+4. cd /sdcard/lspatch {where the unzipped folder is}
 
-5. bash ken.sh
+5. bash ken.sh or sh ken.sh
 
 then follow the procedures 
 
